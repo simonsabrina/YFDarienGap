@@ -1,2 +1,2 @@
 # YFDarienGap
-Here are the script codes related to the analysis found in the paper entitled "The Burden of Yellow Fever on Migrating Humans Through The Darien Gap, Adjacent Communities, and Primates’ Biodiversity" (Simon et al, 2023)
+The script codes related to the analysis conducted in the paper titled "The Burden of Yellow Fever on Migrating Humans Through The Darien Gap, Adjacent Communities, and Primates’ Biodiversity" (Simon et al., 2023, in print) can be found in this folder. Please note that the files in this repository are regularly updated to ensure clarity and facilitate reproducibility. Future versions with identical content may be released to enhance clarity and address any potential reproducibility concerns.
